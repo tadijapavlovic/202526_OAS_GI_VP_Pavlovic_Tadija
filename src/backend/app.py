@@ -1,0 +1,1 @@
+﻿print("Pozdrav sa bekenda!")
